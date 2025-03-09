@@ -1,0 +1,8 @@
+Max players 24 
+______________
+
+Map by alien
+
+______________
+
+212.1.226.101:27017 zombie server
