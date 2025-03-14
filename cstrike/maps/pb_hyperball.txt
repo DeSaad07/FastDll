@@ -1,0 +1,10 @@
+HyperBall - Paintball
+
+Map by Colt45
+colt_45_s@yahoo.com
+
+A paintball style map. 
+First team to eliminate 
+the other team wins
+
+(Press FIRE to continue)
